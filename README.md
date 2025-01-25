@@ -20,5 +20,9 @@
 </details>
 
 # Problem setting
+<details markdown = "1"><summary>3rd NSTU Science Fest</summary>
 Link: https://www.hackerrank.com/3rd-nstu-science-fest-programming-contest-2025
+  
 My problem: C,D,H
+</details>
+
